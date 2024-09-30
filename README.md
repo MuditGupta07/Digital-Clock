@@ -18,3 +18,5 @@ The clock updates every second and features a modern, responsive design.
 
 https://github.com/user-attachments/assets/150e0fa1-ea48-488f-ab8b-3e3e835760f8
 
+
+Clock Link: https://muditgupta07.github.io/Digital-Clock/
